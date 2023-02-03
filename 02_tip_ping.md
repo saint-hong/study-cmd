@@ -13,7 +13,7 @@
 ```python
 ping google.com
 ```
-![ping_1.png](.images/ping_1.png)
+![ping_1.png](./images/ping_1.png)
 
 - 구글의 IP 주소 : 172.217.175.14
 - 32바이트의 데이터(패킷)를 보냄
